@@ -153,4 +153,4 @@ document.addEventListener('DOMContentLoaded', () => {
 // toast animation
 const style = document.createElement('style');
 style.textContent = `@keyframes toastIn { from { opacity:0; transform:translateX(-50%) translateY(10px); } to { opacity:1; transform:translateX(-50%) translateY(0); } }`;
-document.head.appendChild(style); 
+document.head.appendChild(style);
